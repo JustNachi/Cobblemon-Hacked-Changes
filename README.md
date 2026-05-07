@@ -1,0 +1,2 @@
+# Cobblemon-Hacked-Changes
+Just a small data pack that changes Cobblemon pokemon types to correlate with my favorite rom hacks. Small changes are also given to their (and pre-evolutions') movepools to make the changes more viable.
