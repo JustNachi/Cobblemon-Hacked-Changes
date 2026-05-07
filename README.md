@@ -72,4 +72,4 @@ Just a small data pack that changes Cobblemon pokemon types to correlate with my
 > Cobblemon is not affiliated with Pokémon nor Minecraft.
 > Minecraft is a trademark of Mojang Synergies AB ｜ Pokémon is a trademark of Nintendo, Creatures Inc. and GAME FREAK inc.
 
-
+<img width="1023" height="524" alt="2026-05-07_11 05 33" src="https://github.com/user-attachments/assets/57dc1f14-332d-42c1-804e-f0a37938cea5" />
