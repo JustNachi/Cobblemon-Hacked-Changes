@@ -1,5 +1,5 @@
 # Cobblemon-Hacked-Changes
-Designed based on Neoforge.
+Design based on Neoforge.
 
 Just a small data pack that changes Cobblemon pokemon types to correlate with my favorite rom hacks. Small changes are also given to their (and pre-evolutions') movepools to make the changes more viable. Many data pack changes were implemented based on Rangi42's "Pokemon Polished Crystal" rom hack and Nemo622's "Pokemon Emerald Seaglass" rom hack.
 
