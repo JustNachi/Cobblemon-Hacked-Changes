@@ -41,12 +41,12 @@ Just a small data pack that changes Cobblemon pokemon types to correlate with my
 > 291 Ninjask: Bug/Dark </p>
 > 313 Volbeat: Bug/Electric </p>
 > 314 Illumise: Bug/Fairy </p>
-> 336 Seviper: Poison/Dark </p>
+> 336 Seviper: Poison </p>
 > 350 Milotic: Water/Fairy </p>
 > 353 Shuppet: Ghost/Normal </p>
 > 353 Banette: Ghost/Normal </p>
 > 358 Chimecho: Psychic/Steel </p>
-> 367 Huntail: Water/Dark </p>
+> 367 Huntail: Water/Dragon </p>
 > 368 Gorebyss: Water/Fairy </p>
 </br>
 
@@ -56,14 +56,13 @@ Just a small data pack that changes Cobblemon pokemon types to correlate with my
 > 429 Misgamius: Ghost/Fairy </p>
 > 433 Chingling: Psychic/Steel </p>
 > 466 Electivire: Electric/Fighting </p>
-> 467 Magmortar: Fire/Poison </p>
+> 467 Magmortar: Fire/Dark </p>
 > 469 Yanmega: Bug/Dragon </p>
 > 474 Porygon-Z: Normal/Electric </p>
 </br>
 
 > Generation 5 </ins> </p>
 > 497 Serperior: Grass/Dragon </p>
-> 503 Samurott: Water/Steel </p>
  
 
 ## As per Cobblemon:
