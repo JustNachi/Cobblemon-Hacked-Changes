@@ -13,6 +13,7 @@ Just a small data pack that changes Cobblemon pokemon types to correlate with my
 > 038 Ninetales: Fire/Ghost </p>
 > 047 Parasect: Bug/Ghost </p>
 > 055 Golduck: Water/Psychic </p>
+> 078 Rapidash: Fire/Fairy (v8) </p>
 > 083 Farfetch'd: Flying/Fighting </p>
 > 084 Doduo: Flying/Ground </p>
 > 085 Dodrio: Flying/Ground </p>
