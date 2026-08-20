@@ -8,15 +8,15 @@ Just a small data pack that changes Cobblemon pokemon types to correlate with my
 > <ins> Generation 1	</ins> </p>
 > 006 Charizard: Fire/Dragon </p>
 > 012 Butterfree: Bug/Psychic </p>
-> 023 Ekans: Poison/Dark </p>
+> ~~023 Ekans: Poison/Dark~~ (removed 1.7.3v10) </p>
 > 024 Arbok: Poison/Dark </p>
 > 038 Ninetales: Fire/Ghost </p>
 > 047 Parasect: Bug/Ghost </p>
 > 055 Golduck: Water/Psychic </p>
 > 078 Rapidash: Fire/Fairy (v8) </p>
-> 083 Farfetch'd: Flying/Fighting </p>
+> ~~083 Farfetch'd: Flying/Fighting~~ (removed 1.7.3v10) </p>
 > 084 Doduo: Flying/Ground </p>
-> 085 Dodrio: Flying/Ground </p>
+> 085 Dodrio: Flying/Ground, land/flying mount </p>
 > 097 Hypno: Psychic/Dark </p>
 > 137 Porygon: Normal/Electric </p>
 </br>
@@ -31,6 +31,7 @@ Just a small data pack that changes Cobblemon pokemon types to correlate with my
 > 164 Noctowl: Ghost/Flying </p>
 > 168 Ariados: Bug/Dark </p>
 > 192 Sunflora: Grass/Fire </p>
+> ~~203 Girafarig: Psychic/Dark~~ (removed 1.7.3v11) </p>
 > 210 Granbull: Fairy/Fighting </p>
 > 224 Octillery: Water/Fire </p>
 > 233 Porygon 2: Normal/Electric </p>
@@ -62,8 +63,11 @@ Just a small data pack that changes Cobblemon pokemon types to correlate with my
 > 474 Porygon-Z: Normal/Electric </p>
 </br>
 
-> Generation 5 </ins> </p>
+> <ins> Generation 5 </ins> </p>
 > 497 Serperior: Grass/Dragon </p>
+
+> <ins> Generation 8a </p>
+> 497 Wyrdeer: flying mount (v11)
  
 
 ## As per Cobblemon:
