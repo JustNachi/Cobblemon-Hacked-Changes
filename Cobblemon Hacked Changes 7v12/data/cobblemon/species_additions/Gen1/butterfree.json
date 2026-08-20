@@ -1,0 +1,29 @@
+{
+  "target": "cobblemon:butterfree",
+  "primaryType":"bug",
+  "secondaryType":"psychic",
+  "abilities":[
+    "compoundeyes",
+    "levitate",
+    "h:tintedlens"
+    ],
+  "baseStats":{
+    "hp":60,
+    "attack":45,
+    "defence":50,
+    "special_attack":110,
+    "special_defence":110,
+    "speed":80
+    },
+  "moves":[
+    "19:silverwind","23:supersonic","29:whirlwind","29:hypnosis","35:reflect","41:morningsun","43:airslash","47:psychic",
+    
+    "tm:attract","tm:reflect","tm:doubleteam","tm:return","tm:hiddenpower","tm:toxic","tm:curse","tm:acrobatics","tm:aerialace","tm:aircutter","tm:airslash","tm:batonpass","tm:bugbite","tm:bugbuzz","tm:captivate","tm:defog","tm:drainingkiss","tm:dreameater","tm:dualwingbeat","tm:electroweb","tm:endure","tm:energyball","tm:facade","tm:flash","tm:gigadrain","tm:gigaimpact","tm:hurricane","tm:hyperbeam","tm:infestation","tm:irondefense","tm:ominouswind","tm:pollenpuff","tm:protect","tm:psybeam","tm:psychic","tm:psychup","tm:raindance","tm:rest","tm:roost","tm:safeguard","tm:shadowball","tm:signalbeam","tm:silverwind","tm:skillswap","tm:sleeptalk","tm:solarbeam","tm:stringshot","tm:strugglebug","tm:substitute","tm:sunnyday","tm:swift","tm:tailwind","tm:terablast","tm:thief","tm:twister","tm:uturn","tm:venoshock",
+    
+    "tutor:swagger","tutor:batonpass","tutor:doubleedge","tutor:dreameater","tutor:endure","tutor:aerialace","tutor:aircutter","tutor:bugbite","tutor:defog","tutor:dualwingbeat","tutor:electroweb","tutor:energyball","tutor:gigadrain","tutor:gigaimpact","tutor:hyperbeam","tutor:irondefense","tutor:ominouswind","tutor:psychic","tutor:rest","tutor:roost","tutor:shadowball","tutor:signalbeam","tutor:skillswap","tutor:sleeptalk","tutor:stringshot","tutor:swift","tutor:tailwind","tutor:twister",
+    
+    "legacy:bide","legacy:confide","legacy:frustration","legacy:headbutt","legacy:megadrain","legacy:mimic","legacy:naturalgift","legacy:nightmare","legacy:psywave","legacy:rage","legacy:razorwind","legacy:round","legacy:secretpower","legacy:snore","legacy:sweetscent","legacy:takedown","legacy:teleport","legacy:toxic",
+    
+    "special:morningsun"
+  ]
+}

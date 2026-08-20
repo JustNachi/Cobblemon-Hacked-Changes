@@ -1,0 +1,18 @@
+{
+    "target":"cobblemon:hypno",
+    "primaryType":"psychic",
+    "secondaryType":"dark",
+    "moves":
+        ["1:futuresight","1:pursuit","1:nastyplot","13:headbutt","26:knockoff","35:bodyslam","41:darkpulse","45:malignantchain","61:futuresight",
+        
+        "egg:assist","egg:barrier","egg:firepunch","egg:flatter","egg:guardswap","egg:icepunch","egg:nastyplot","egg:powersplit","egg:psychicterrain","egg:psychocut","egg:roleplay","egg:secretpower","egg:skillswap","egg:thunderpunch",
+        
+        "tm:allyswitch","tm:attract","tm:batonpass","tm:bodypress","tm:bodyslam","tm:brickbreak","tm:calmmind","tm:confuseray","tm:curse","tm:dazzlinggleam","tm:doubleedge","tm:doubleteam","tm:drainingkiss","tm:drainpunch","tm:dreameater","tm:encore","tm:endeavor","tm:endure","tm:expandingforce","tm:facade","tm:firepunch","tm:flash","tm:fling","tm:focusblast","tm:focuspunch","tm:foulplay","tm:futuresight","tm:gigaimpact","tm:grassknot","tm:guardswap","tm:haze","tm:headbutt","tm:helpinghand","tm:hex","tm:hyperbeam","tm:icepunch","tm:imprison","tm:knockoff","tm:lightscreen","tm:lowkick","tm:lowsweep","tm:magiccoat","tm:magicroom","tm:megakick","tm:megapunch","tm:metronome","tm:mindreader","tm:nastyplot","tm:nightshade","tm:poweruppunch","tm:protect","tm:psybeam","tm:psychic","tm:psychicnoise","tm:psychicterrain","tm:psychocut","tm:psychup","tm:psyshock","tm:raindance","tm:recycle","tm:reflect","tm:rest","tm:roleplay","tm:safeguard","tm:scaryface","tm:secretpower","tm:selfdestruct","tm:shadowball","tm:signalbeam","tm:skillswap","tm:sleeptalk","tm:snatch","tm:storedpower","tm:substitute","tm:sunnyday","tm:swagger","tm:swift","tm:takedown","tm:taunt","tm:telekinesis","tm:terablast","tm:thief","tm:thunderpunch","tm:thunderwave","tm:torment","tm:toxic","tm:trailblaze","tm:triattack","tm:trick","tm:trickroom","tm:zenheadbutt",
+        
+        "tutor:allyswitch","tutor:bodyslam","tutor:calmmind","tutor:counter","tutor:dazzlinggleam","tutor:doubleedge","tutor:drainpunch","tutor:dreameater","tutor:dynamicpunch","tutor:endeavor","tutor:endure","tutor:expandingforce","tutor:firepunch","tutor:focuspunch","tutor:foulplay","tutor:gigaimpact","tutor:helpinghand","tutor:hyperbeam","tutor:icepunch","tutor:knockoff","tutor:lowkick","tutor:magiccoat","tutor:magicroom","tutor:megakick","tutor:megapunch","tutor:metronome","tutor:psychic","tutor:psychocut","tutor:psychup","tutor:recycle","tutor:rest","tutor:roleplay","tutor:seismictoss","tutor:shadowball","tutor:signalbeam","tutor:skillswap","tutor:sleeptalk","tutor:snore","tutor:snatch","tutor:swagger","tutor:swift","tutor:telekinesis","tutor:thunderpunch","tutor:thunderwave","tutor:trick","tutor:zenheadbutt",
+        
+        "legacy:bide","legacy:captivate","legacy:confide","legacy:frustration","legacy:hiddenpower","legacy:mimic","legacy:naturalgift","legacy:nightmare","legacy:psywave","legacy:rage","legacy:return","legacy:round","legacy:skullbash","legacy:submission","legacy:teleport","legacy:zapcannon",
+        
+        "special:bellydrum","special:wish"
+        ]
+}
