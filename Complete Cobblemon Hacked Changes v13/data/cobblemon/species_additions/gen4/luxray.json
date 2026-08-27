@@ -1,0 +1,10 @@
+{
+    "target":"cobblemon:luxray",
+    "primaryType":"electric",
+    "secondaryType":"dark",
+    "abilities":
+        ["strongjaw",
+        "intimidate",
+        "h:guts"
+        ]
+}

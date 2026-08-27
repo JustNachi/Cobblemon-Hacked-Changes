@@ -1,0 +1,16 @@
+{
+    "target":"cobblemon:chikorita",
+    "abilities":[
+        "overgrow",
+        "thickfat",
+        "h:triage"
+        ],
+    "baseStats":{
+        "hp":50,
+        "attack":49,
+        "defence":65,
+        "special_attack":49,
+        "special_defence":65,
+        "speed":45
+        }
+}
