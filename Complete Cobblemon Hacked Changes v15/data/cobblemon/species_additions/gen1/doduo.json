@@ -1,0 +1,37 @@
+{
+    "target": "cobblemon:doduo",
+    "primaryType":"flying",
+    "secondaryType":"ground",
+    "moves":[
+        "1:peck",
+        "1:growl",
+        "5:quickattack",
+        "8:rage",
+        "10:mudslap",
+        "12:furyattack",
+        "15:pursuit",
+        "19:batonpass",
+        "19:pluck",
+        "22:doublehit",
+        "22:doublekick",
+        "26:bulldoze",
+        "29:doubleteam",
+        "29:uproar",
+        "33:blazekick",
+        "33:triattack",
+        "36:swordsdance",
+        "38:drillrun",
+        "40:jumpkick",
+        "47:endeavor",
+        "47:reversal",
+        "50:thrash",
+        
+        "egg:assurance","egg:bravebird","egg:feintattack","egg:flail","egg:jumpkick","egg:mirrormove","egg:naturalgift","egg:pursuit","egg:quickattack","egg:skyattack","egg:supersonic","egg:whirlwind",
+        
+        "tm:bulldoze","tm:drillrun","tm:acrobatics","tm:aerialace","tm:agility","tm:assurance","tm:batonpass","tm:bodyslam","tm:bravebird","tm:doubleedge","tm:echoedvoice","tm:endeavor","tm:endure","tm:facade","tm:featherdance","tm:fly","tm:helpinghand","tm:knockoff","tm:leer","tm:lowkick","tm:lunge","tm:mudslap","tm:naturalgift","tm:pluck","tm:protect","tm:raindance","tm:rest","tm:roost","tm:skyattack","tm:sleeptalk","tm:steelwing","tm:substitute","tm:sunnyday","tm:swift","tm:swordsdance","tm:tailwind","tm:takedown","tm:terablast","tm:thief","tm:throatchop","tm:triattack","tm:uproar","tm:wingattack","tm:workup",
+        
+        "tutor:aerialace","tutor:agility","tutor:batonpass","tutor:bodyslam","tutor:bulldoze","tutor:doubleedge","tutor:drillrun","tutor:endeavor","tutor:endure","tutor:helpinghand","tutor:knockoff","tutor:lowkick","tutor:mudslap","tutor:rest","tutor:roost","tutor:skyattack","tutor:sleeptalk","tutor:swift","tutor:tailwind","tutor:throatchop","tutor:uproar",
+        
+        "legacy:aircutter","legacy:attract","legacy:bide","legacy:captivate","legacy:confide","legacy:curse","legacy:doubleteam","legacy:fly","legacy:frustration","legacy:haze","legacy:headbutt","legacy:hiddenpower","legacy:mimic","legacy:reflect","legacy:return","legacy:round","legacy:secretpower","legacy:skullbash","legacy:snore","legacy:swagger","legacy:toxic"
+        ]
+}

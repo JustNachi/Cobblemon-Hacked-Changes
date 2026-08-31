@@ -1,0 +1,17 @@
+{
+    "target": "cobblemon:ponyta",
+    "evolutions": [
+        {
+            "id": "ponyta_rapidash",
+            "variant": "level_up",
+            "result": "rapidash",
+            "consumeHeldItem": false,
+            "learnableMoves": [
+                "furyattack",
+                "smartstrike",
+                "dazzlinggleam"
+                ],
+            "requirements": [{"variant": "level","minLevel": 40}]
+            }
+        ]
+    }

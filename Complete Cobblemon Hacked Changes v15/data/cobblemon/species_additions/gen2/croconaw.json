@@ -1,0 +1,48 @@
+{
+    "target":"cobblemon:croconaw",
+    "primaryType":"water",
+    "secondaryType":"dark",
+    "abilities":[
+        "torrent",
+        "strongjaw",
+        "h:sheerforce"
+        ],
+    "baseStats":{
+        "hp":65,
+        "attack":90,
+        "defence":80,
+        "special_attack":59,
+        "special_defence":63,
+        "speed":58
+        },
+    "moves":[
+        "1:scratch",
+        "1:leer",
+        "6:watergun",
+        "8:rage",
+        "13:bite",
+        "15:scaryface",
+        "21:icefang",
+        "24:flail",
+        "27:crunch",
+        "33:chipaway",
+        "36:poisonfang",
+        "39:slash",
+        "42:screech",
+        "45:thrash",
+        "48:fishiousrend",
+        "51:aquatail",
+        "57:superpower",
+        "60:hydropump",
+    
+        "egg:ancientpower","egg:aquajet","egg:block","egg:chipaway","egg:counter","egg:crunch","egg:dragondance","egg:faketears","egg:flatter","egg:hydropump","egg:icepunch","egg:metalclaw","egg:mudsport","egg:thrash","egg:waterpulse","egg:watersport",
+    
+        "tm:aerialace","tm:ancientpower","tm:aquatail","tm:attract","tm:blizzard","tm:block","tm:breakingswipe","tm:brickbreak","tm:chillingwater","tm:crunch","tm:curse","tm:cut","tm:dig","tm:dive","tm:doubleedge","tm:doubleteam","tm:dragonclaw","tm:dragondance","tm:endeavor","tm:endure","tm:facade","tm:faketears","tm:fling","tm:flipturn","tm:focuspunch","tm:furycutter","tm:hail","tm:headbutt","tm:honeclaws","tm:hydropump","tm:icebeam","tm:icefang","tm:icepunch","tm:icywind","tm:irontail","tm:liquidation","tm:lowkick","tm:megakick","tm:megapunch","tm:metalclaw","tm:muddywater","tm:mudslap","tm:poweruppunch","tm:protect","tm:psychicfangs","tm:raindance","tm:rest","tm:roar","tm:rockslide","tm:rocksmash","tm:rocktomb","tm:scaryface","tm:screech","tm:shadowclaw","tm:sleeptalk","tm:spite","tm:strength","tm:substitute","tm:superpower","tm:surf","tm:swordsdance","tm:takedown","tm:terablast","tm:thief","tm:toxic","tm:trailblaze","tm:uproar","tm:waterfall","tm:waterpledge","tm:waterpulse","tm:whirlpool","tm:workup",
+    
+        "tutor:aerialace","tutor:ancientpower","tutor:aquatail","tutor:block","tutor:bodyslam","tutor:counter","tutor:dive","tutor:doubleedge","tutor:dynamicpunch","tutor:endeavor","tutor:endure","tutor:flipturn","tutor:focuspunch","tutor:furycutter","tutor:hydrocannon","tutor:icebeam","tutor:icefang","tutor:icepunch","tutor:icywind","tutor:irontail","tutor:liquidation","tutor:lowkick","tutor:megakick","tutor:megapunch","tutor:mudslap","tutor:rest","tutor:rockslide","tutor:rocksmash","tutor:seismictoss","tutor:shadowclaw","tutor:sleeptalk","tutor:snore","tutor:spite","tutor:superpower","tutor:swagger","tutor:swordsdance","tutor:uproar","tutor:waterpledge","tutor:waterpulse",
+    
+        "legacy:captivate","legacy:confide","legacy:detect","legacy:frustration","legacy:hiddenpower","legacy:mimic","legacy:naturalgift","legacy:razorwind","legacy:return","legacy:round","legacy:scald","legacy:secretpower",
+    
+        "special:hydrocannon"
+        ]
+}

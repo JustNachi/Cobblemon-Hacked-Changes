@@ -1,0 +1,16 @@
+{
+    "target": "cobblemon:bayleef",
+    "abilities": [
+        "overgrow",
+        "thickfat",
+        "h:triage"
+    ],
+    "baseStats": {
+        "hp": 60,
+        "attack": 62,
+        "defence": 80,
+        "special_attack": 63,
+        "special_defence": 80,
+        "speed": 60
+    }
+}

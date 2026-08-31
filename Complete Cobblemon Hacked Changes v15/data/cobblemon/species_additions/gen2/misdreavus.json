@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:misdreavus",
+  "evolutions": [
+        {
+            "id": "misdreavus_mismagius",
+            "variant": "item_interact",
+            "result": "mismagius",
+            "consumeHeldItem": false,
+            "learnableMoves": [
+              "dazzlinggleam"
+            ],
+            "requirements": [],
+            "requiredContext": "cobblemon:dusk_stone"
+        }
+    ]
+}
